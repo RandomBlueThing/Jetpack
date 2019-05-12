@@ -18,6 +18,8 @@ using UnityEngine;
  * I hope you guys can learn something from this script. Enjoy :)
  * 
  * Original author: Jake Perry, reddit.com/user/nandos13
+
+    https://www.reddit.com/r/Unity3D/comments/7nul40/simple_gravity_gun_script_well_commented/
  */
 public class PhysGun : MonoBehaviour
 {
